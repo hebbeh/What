@@ -15,8 +15,8 @@ from . import settings
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "What.settings")
 
-#application = get_wsgi_application()
-#application = DjangoWhiteNoise(application)
+application = get_wsgi_application()
+application = DjangoWhiteNoise(application)
 
-import django.core.handlers.wsgi
-application = django.core.handlers.wsgi.WSGIHandler()
+#import django.core.handlers.wsgi
+#application = django.core.handlers.wsgi.WSGIHandler()
