@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'What.What.Alerter'
+    'django.contrib.Alerter'
 ]
 
 MIDDLEWARE_CLASSES = [
