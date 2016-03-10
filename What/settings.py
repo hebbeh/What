@@ -51,7 +51,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.security.SecurityMiddleware',
 )
 
-ROOT_URLCONF = 'What.urls'
+ROOT_URLCONF = 'what.urls'
 
 TEMPLATES = [
     {
@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'What.wsgi.application'
+WSGI_APPLICATION = 'what.wsgi.application'
 
 
 # Database
