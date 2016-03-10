@@ -1,6 +1,6 @@
-1. Stega in i mappen What
+1. Stega in i mappen what
 2. cmd "workon env"
-3. Stega in i mappen What > What. Starta servern: python manage.py runserver
+3. Stega in i mappen what > what. Starta servern: python manage.py runserver
 
 ====================
 Övrigt
