@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"quest",
+				"question_text"
+			],
+			[
+				"put",
+				"python_2_unicode_compatible"
+			],
+			[
+				"Main",
+				"MainContentText"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"med",
+				"mediaID"
+			],
+			[
+				"media",
+				"mediaID"
+			],
+			[
+				"id",
+				"MediaID"
+			],
+			[
+				"ap",
+				"appendTo"
+			],
+			[
+				"user",
+				"Username"
+			],
+			[
+				"Likes",
+				"likesFont"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"URL",
+				"URLConnection"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "What/settings.py",
+			"settings":
+			{
+				"buffer_size": 3943,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Anna/Documents/test/python-getting-started/gettingstarted/settings.py",
+		"/C/Users/Anna/Documents/what/SublimeProject.sublime-project",
+		"/C/Users/Anna/Documents/What/What/What/settings.py",
+		"/C/Users/Anna/Documents/What/.gitignore",
+		"/C/Users/Anna/Documents/What/Procfile.windows",
+		"/C/Users/Anna/Documents/What/Procfile",
+		"/C/Users/Anna/Documents/What/requirements.txt",
+		"/C/Users/Anna/Documents/What/runtime.txt",
+		"/C/Users/Anna/Documents/What/What/What/wsgi.py",
+		"/C/Users/Anna/Documents/What/What/What/static/index.html",
+		"/C/Users/Anna/Documents/What/What/Alerter/templates/Alerter/index.html",
+		"/C/Users/Anna/Documents/What/What/Alerter/admin.py",
+		"/C/Users/Anna/Documents/What/What/Alerter/models.py",
+		"/C/Users/Anna/Documents/What/What/Alerter/views.py",
+		"/C/Users/Anna/Documents/What/What/What/urls.py",
+		"/C/Users/Anna/Documents/What/What/Alerter/urls.py",
+		"/C/Users/Anna/Documents/What/What/What/__init__.py",
+		"/C/Users/Anna/Documents/What/What/Alerter/Procfile",
+		"/C/Users/Anna/Documents/What/What/Alerter/static/Alerter/example.js",
+		"/C/Users/Anna/Desktop/TFSM/PortfolioWebsite/Script.js",
+		"/C/Users/Anna/Desktop/TFSM/PortfolioWebsite/Location.html",
+		"/C/Users/Anna/Desktop/TFSM/DoodlifyFin/Tutorial.html",
+		"/C/Users/Anna/Desktop/TFSM/DoodlifyFin/StyleMap/Style.css",
+		"/C/Users/Anna/Desktop/TFSM/DoodlifyFin/Index.html",
+		"/C/Users/Anna/Desktop/What/mysite/polls/urls.py",
+		"/C/Users/Anna/Desktop/What/mysite/polls/admin.py",
+		"/C/Users/Anna/Desktop/What/mysite/polls/models.py",
+		"/C/Users/Anna/Desktop/What/mysite/mysite/settings.py",
+		"/C/Users/Anna/Desktop/What/mysite/polls/templates/polls/index.html",
+		"/C/Users/Anna/Desktop/What/mysite/polls/templates/polls/detail.html",
+		"/C/Users/Anna/Desktop/What/mysite/polls/templates/polls/results.html",
+		"/C/Users/Anna/Desktop/What/mysite/polls/views.py",
+		"/C/Users/Anna/Desktop/What/mysite/mysite/urls.py",
+		"/C/Users/Anna/Desktop/What/mysite/polls/apps.py",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/Tutorial.html",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/Search.html",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/Script.js",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/Script",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/Location.html",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/InstaGeo",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/Index.html",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/Followers.html",
+		"/C/Users/Anna/Desktop/Doodlify/Doodlify/Script.js",
+		"/C/Users/Anna/Desktop/DoodlifyFin/Tutorial.html",
+		"/C/Users/Anna/Desktop/DoodlifyFin/Index.html",
+		"/C/Users/Anna/Desktop/DoodlifyFin/Script.js",
+		"/C/Users/Anna/Desktop/Doodlify/Doodlify/Index.html",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/StyleMap/Style.css",
+		"/C/Users/Anna/Desktop/SpotifyTutorialKommentarer.txt",
+		"/C/Users/Anna/Desktop/SpotifyApp/web-api-auth-examples/authorization_code/public/playlistcreator-example/app.js",
+		"/C/Users/Anna/Desktop/SpotifyApp/web-api-auth-examples/authorization_code/public/index.html",
+		"/C/Users/Anna/Desktop/SpotifyApp/web-api-auth-examples/authorization_code/public/playlistcreator-example/index.html",
+		"/C/Users/Anna/Desktop/njtest/server.js",
+		"/C/Users/Anna/Desktop/SpotifyApp/web-api-auth-examples/authorization_code/app.js",
+		"/C/Users/Anna/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Anna/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Anna/java-getting-started/src/main/java/Main.java",
+		"/C/Users/Anna/JinstagramEx/pom.xml",
+		"/C/Users/Anna/java-getting-started/pom.xml",
+		"/C/Users/Anna/Desktop/PortfolioWebsite/Style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"backgrou",
+			"acess_token",
+			"acess_tokem",
+			"\"likes\" + i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "What/settings.py",
+					"settings":
+					{
+						"buffer_size": 3943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1659,
+								1659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1508.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true
+}

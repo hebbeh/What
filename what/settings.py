@@ -12,11 +12,9 @@ https://docs.djangoproject.com/en/1.8/ref/settings/
 import os
 import dj_database_url
 
-
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
-
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.8/howto/deployment/checklist/
@@ -37,7 +35,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Alerter'
+    'Alerter',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -70,8 +68,9 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'what.wsgi.application'
+TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates'),]
 
+WSGI_APPLICATION = 'what.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases

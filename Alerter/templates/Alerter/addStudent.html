@@ -1,0 +1,14 @@
+<!doctype html>
+<html lange="sv">
+	<form method="post">
+		{% csrf_token %}
+		
+		{{ form.fName.name  }}
+		{{ form.fName }}
+		{{ form.lName }}
+		{{ form.email }}
+
+		{{form.errors}}
+		<input type="submit" value="send">
+	</form>
+</html>
