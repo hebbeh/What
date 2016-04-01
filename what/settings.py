@@ -37,7 +37,6 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Alerter',
-    'menu',
 )
 
 # List of callables that know how to import templates from various sources.
