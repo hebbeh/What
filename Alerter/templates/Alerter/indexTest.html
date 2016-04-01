@@ -40,24 +40,22 @@
       <div class="container">
         <div id="cardContainer">
           <div id="addButton"><a href="{% url 'Alerter:addTask' %}">What do you need to get done?<i class="fa fa-pencil"></i></a></div>
-
-          {% for task in tasks %}
-          {% if task.student == user %}
-            <div class="card">
-              <div class="title">
-                  <i class="fa fa-cog"></i>{{ task.course }}<a href="{% url 'Alerter:delete_new' id=task.id %}" class="btn"><i class="fa fa-check"></i></a>
+        
+          <form method='POST' action='/deleted'>      
+            {% for task in tasks %}
+            {% if task.student == user %}
+              <div class="card">
+                <div class="title">
+                    <i class="fa fa-cog"></i><a href="{% url 'Alerter:delete_new' id=task.id %}" class="btn"><i class="fa fa-check"></i></a>
+                </div>
+                <div class="innerCard">{{ task }}
+                </div>
               </div>
-              <div class="innerCard">{{ task.title }} </br>
-                {{ task.desc }} </br>
-                {{ task.dead }}
-              </div>
-            </div>
-          {% endif %}
-          {% endfor %} 
+            {% endif %}
+            {% endfor %} 
+          </form>
         </div>
       </div>
-
-<script src="{% static 'login.js' %}"></script>
   </body>
 {% endblock %}
 </html>

@@ -25,9 +25,10 @@ SECRET_KEY = 'i+acxn5(akgsn!sr4^qgf(^m&*@+g1@u^t@=8s@axc41ml*f=s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+#Login
+LOGIN_REDIRECT_URL = '/index'
 
 # Application definition
-
 INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.auth',
@@ -36,6 +37,14 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Alerter',
+    'menu',
+)
+
+# List of callables that know how to import templates from various sources.
+TEMPLATE_LOADERS = (
+    'django.template.loaders.filesystem.Loader',
+    'django.template.loaders.app_directories.Loader',
+#     'django.template.loaders.eggs.Loader',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -69,6 +78,11 @@ TEMPLATES = [
 ]
 
 TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates'),]
+
+TEMPLATE_CONTEXT_PROCESSORS = (
+
+    'django.core.context_processors.request',
+)
 
 WSGI_APPLICATION = 'what.wsgi.application'
 

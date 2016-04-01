@@ -1,0 +1,67 @@
+#login{
+}
+
+#loginBlock{
+    text-align: center;
+    width: 35%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 155px;
+    padding-top: 60px;
+    background-color: #FFFFE3;
+    box-shadow: 0px 2px 0px #444557;
+}
+
+.control-group{
+
+/*    margin-right: auto;
+    margin-left: auto;*/
+}
+
+input{
+
+	font-size:14px;
+	padding:10px 10px 10px 5px;
+	display:block;
+	width:300px;
+	border:none;
+	border-bottom:2px solid #444557;
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-right: auto;
+	margin-left: auto;
+    background-color:#FFFFE3;
+}
+
+input:focus { 
+	outline:none; 
+}
+
+label{
+
+    display:none;
+}
+
+#loginButton, a{
+
+    text-align: center;
+    color: #247BA0;
+    width: 25%;
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+/*    margin-right: auto;
+    margin-left: auto;*/
+    line-height: 2px;
+    background-color: #E3D8F1;
+    line-height: 43px;
+    font-size: 22px;
+    font-family: 'Grand Hotel', cursive;
+    text-decoration: none;
+    color: #444557;
+    box-shadow: 0px 2px 0px #444557;
+}
+
+body{
+
+    background: #788AA3;
+}
